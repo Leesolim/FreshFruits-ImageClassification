@@ -52,7 +52,7 @@
        ![image](https://user-images.githubusercontent.com/109954540/227497812-000b7a05-bdd6-4289-b274-8e032945059a.png)
 
 ---
-## 결과 정리(가설 검정)
+## 결과 정리
 - 사전 학습 모델의 성능테스트
     - epochs=5 정도에서 윤곽이 형성되므로 epochs=30까지는 불필요
         - Resnet50의 경우 epochs=100 -->정확도 0.85수준
