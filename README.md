@@ -21,7 +21,7 @@
 - 캐글 원본 데이터 : Fruits fresh and rotten for classification     
   (https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification)
       
-        ![image](https://user-images.githubusercontent.com/109954540/227492626-89d7ae9d-f7b6-425e-a837-046af6161bcd.png)
+    ![image](https://user-images.githubusercontent.com/109954540/227492626-89d7ae9d-f7b6-425e-a837-046af6161bcd.png)
 
 ---
 
